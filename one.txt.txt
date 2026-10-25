@@ -4,3 +4,4 @@ this is huday project
 ami  branching kortechi
 This issue is fixed.again fixed this assue
 changing for feature-2
+added something for main branch
